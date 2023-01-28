@@ -71,6 +71,8 @@ applications.
 - **BigQuery** - big data analytics
 - **Docker** - service deployment
 - **Kubernetes** - service deployment
+- **Apache** - web service hosting
+- **Nginx** - reverse proxy
 - **vim** - enthusiast
 
 
