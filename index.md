@@ -1,91 +1,109 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matt Holmes's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Matt Holmes
+Full Stack Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href="iam4423@gmail.com">iam4423@gmail.com</a>
+    | <a href="https://github.com/indeedhat">My GitHub Account</a>
 </div>
+
+Full stack developer with 10+ years experience in a broad veriety of skills.
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as a developer for [AceViral Ltd](https://aceviral.com)
 
-### Specialized in
+### My Current Responsibilities
+- Database Administration
+- Game Server programming
+- Development Tool development
+- Web Development
+- Linux System Administration
+- Short sprint games prototyping
+- Network Administration
+- Computer Hardware maintenence
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Role History
+I was originall hired as a PHP developer working on REST API's for flash/mobile games backends.
+Since then i have worked on a veriety of projects including:
+- Building Custom CRM software (Lead developer on a team of 4)
+- Designing and implementing the network for multiple call centers
+- Building and maintaining Crypto Currency mining rigs
+- building the backend server for a veriety of Turn based and real time mobile games
+- Building Data analysis tools
+- Mobile device automation
+
+## Key Skills
+
+### Go
+4+ Yeas professional experience using go for building REST API's, Real-Time game servers, 
+Cli Development tools, System automation, Web scraping
+
+### PHP
+10+ Years professional experience using PHP for api development.
+
+### Linux
+8+ Years of professional experience administering linux servers,  
+5+ Years of daily driving as my personal/development platform
+
+### MySQL
+10+ Years of database administration and development. Including query optimisation for high throughput 
+applications.
+
+### Python
+7+ Years professional experiance using python for task automation, system administration and web scroping
+
+### Git
+10+ Years of professional exeriance using git as my sole SCM and providing support to other developers at aceviral
+
+## Other Skills
+- Javascript - reactive web frontends
+- Lua - cli development tools, vim plugins
+- Julia - data analytics
+- MongoDB - Data collection
+- BigQuery - big data analytics
+- Docker - service deployment
+- Kubernetes - service deployment
+- vim - enthusiast
 
 
-### Research interests
+## Employment History
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Sept 2012 - Present`
+__AceViral Ltd__
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2001 - Jan 2008`
+__Ullswater Community College__ 
+- GCSE 10 A-C
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`Sep 2010 - Jun 2012`
+__Bradford College__ 
+- Systems Support and networking level 3  (Tripple Distinction)
+- CCNA modules 1 and 2
 
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Bradford College Rising Stars Award
 
 
+## Other Interests
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Rock Climbing
+- Cars
+- Keyboards
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2023 -->
 
 
