@@ -2,11 +2,13 @@
 layout: cv
 title: Matt Holmes's CV
 ---
+<aside></aside>
+
 # Matt Holmes
 Full Stack Developer
 
 <div id="webaddress">
-    <a href="iam4423@gmail.com">iam4423@gmail.com</a>
+    <a href="mailto:iam4423@gmail.com">iam4423@gmail.com</a>
     | <a href="https://github.com/indeedhat">My GitHub Account</a>
 </div>
 
