@@ -61,6 +61,7 @@ applications.
 10+ Years of professional exeriance using git as my sole SCM and providing support to other developers at aceviral
 
 ## Other Skills
+- CI/CD - GitHub Actions, TeamCity, Jenkins
 - Javascript - reactive web frontends
 - Lua - cli development tools, vim plugins
 - Julia - data analytics
