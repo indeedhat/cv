@@ -110,7 +110,6 @@ Bradford College Rising Stars Award
 - Mechanical Keyboards
 
 
-### 
 
 `Last updated: Jan 2023`
 
