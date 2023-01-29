@@ -12,7 +12,7 @@ Full Stack Developer
     | <a href="https://github.com/indeedhat" target="_blank">My GitHub Account</a>
 </div>
 
-Full stack developer with 10+ years experience in a broad veriety of skills.
+Full stack developer with 10+ years experience in a broad variety of skills.
 
 
 ## Currently
@@ -27,15 +27,16 @@ Working as a developer for [AceViral Ltd](https://aceviral.com)
 - Linux System Administration
 - Short sprint games prototyping
 - Network Administration
-- Computer Hardware maintenence
+- Computer Hardware maintenance
+- Game prototyping in Unity3D
 
 ### Role History
-I was originall hired as a PHP developer working on REST API's for flash/mobile games backends.
-Since then i have worked on a veriety of projects including:
+I was originally hired as a PHP developer working on REST API's for flash/mobile games backends.
+Since then I have worked on a variety of projects including:
 - Building Custom CRM software (Lead developer on a team of 4)
-- Designing and implementing the network for multiple call centers
+- Designing and implementing the network for multiple call centre's
 - Building and maintaining Crypto Currency mining rigs
-- building the backend server for a veriety of Turn based and real time mobile games
+- building the backend server for a variety of Turn based and real time mobile games
 - Building Data analysis tools
 - Mobile device automation
 
@@ -46,10 +47,10 @@ Since then i have worked on a veriety of projects including:
 Cli Development tools, System automation, Web scraping
 
 ### PHP
-10+ Years professional experience using PHP for api development.
+10+ Years professional experience using PHP for API development.
 
 ### Linux
-8+ Years of professional experience administering linux servers,  
+8+ Years of professional experience administering Linux servers,  
 5+ Years of daily driving as my personal/development platform
 
 ### MySQL
@@ -57,23 +58,24 @@ Cli Development tools, System automation, Web scraping
 applications.
 
 ### Python
-7+ Years professional experiance using python for task automation, system administration and web scroping
+7+ Years professional experience using python for task automation, system administration and web scraping
 
 ### Git
-10+ Years of professional exeriance using git as my sole SCM and providing support to other developers at aceviral
+10+ Years of professional experience using git as my sole SCM and providing support to other developers at AceViral
 
 ## Other Skills
 - **CI/CD** - GitHub Actions, TeamCity, Jenkins
-- **Javascript** - reactive web frontends
-- **Lua** - cli development tools, vim plugins
+- **Javascript/Typescript** - reactive web frontends
 - **Julia** - data analytics
+- **Lua** - Cli development tools, vim plugins
+- **C#** - Unity Game Development
 - **MongoDB** - Data collection
 - **BigQuery** - big data analytics
 - **Docker** - service deployment
 - **Kubernetes** - service deployment
 - **Apache** - web service hosting
 - **Nginx** - reverse proxy
-- **vim** - enthusiast
+- **Vim** - enthusiast
 
 
 ## Employment History
@@ -90,7 +92,7 @@ __Ullswater Community College__
 
 `Sep 2010 - Jun 2012`
 __Bradford College__ 
-- Systems Support and networking level 3  (Tripple Distinction)
+- Systems Support and networking level 3  (Triple Distinction)
 - CCNA modules 1 and 2
 
 
@@ -102,13 +104,14 @@ Bradford College Rising Stars Award
 
 ## Other Interests
 
+- Video Games
 - Rock Climbing
 - Cars
-- Keyboards
+- Mechanical Keyboards
 
 
-<!-- ### Footer
+### 
 
-Last updated: Jan 2023 -->
+`Last updated: Jan 2023`
 
 
