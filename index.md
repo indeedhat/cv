@@ -79,7 +79,7 @@ __Heliguy Ltd__
 `Sep 2012 - Apr 2023`
 __AceViral Ltd__
 
-`Responsibilities`
+### Responsibilities
 - Database Administration
 - Game Server programming
 - Development Tool development
@@ -90,7 +90,7 @@ __AceViral Ltd__
 - Computer Hardware maintenance
 - Game prototyping in Unity3D
 
-`Role History`
+### Role History
 I was originally hired as a PHP developer working on REST API's for flash/mobile games backends.
 Since then I have worked on a variety of projects including:
 - Building Custom CRM software (Lead developer on a team of 4)
