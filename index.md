@@ -16,31 +16,21 @@ Full stack developer with 10+ years experience in a broad variety of skills.
 
 
 ## Currently
+Working as a developer for [Heliguy.com](https://heliguy.com)
 
-Working as a developer for [AceViral Ltd](https://aceviral.com)
+### Responsibilities
+- Evaluate open source technologies for use within our echosystem
+- Customize open source technologies towards our specific use cases
+- Implement wifi based communications for drones
+- Create and improve management GUI's for drone flight
+- integrate a range of handware sensors into our existing platform
+- Optimizing video transmission pipelines
 
-### My Current Responsibilities
-- Database Administration
-- Game Server programming
-- Development Tool development
-- Web Development
-- Linux System Administration
-- Short sprint games prototyping
-- Network Administration
-- Computer Hardware maintenance
-- Game prototyping in Unity3D
-
-### Role History
-I was originally hired as a PHP developer working on REST API's for flash/mobile games backends.
-Since then I have worked on a variety of projects including:
-- Building Custom CRM software (Lead developer on a team of 4)
-- Designing and implementing the network for multiple call centre's
-- Building and maintaining Crypto Currency mining rigs
-- building the backend server for a variety of Turn based and real time mobile games
-- Building Data analysis tools
-- Mobile device automation
 
 ## Key Skills
+
+### C/C++
+6+ Months working with Qt based applications, ROS2 nodes and gstreamer pipelines
 
 ### Go
 4+ Yeas professional experience using go for building REST API's, Real-Time game servers, 
@@ -76,13 +66,39 @@ applications.
 - **Apache** - web service hosting
 - **Nginx** - reverse proxy
 - **Vim** - enthusiast
+- **GStreamer** - video transmission over a network
+- **ROS 2** - Comunicating with a range of hardware sensors and triggering remote tasks
+- **Qt** - Developing desktop and mobile GUI applications
 
 
 ## Employment History
 
-`Sept 2012 - Present`
+`Apr 2023 - Present`
+__Heliguy Ltd__
+
+`Sep 2012 - Apr 2023`
 __AceViral Ltd__
 
+`Responsibilities`
+- Database Administration
+- Game Server programming
+- Development Tool development
+- Web Development
+- Linux System Administration
+- Short sprint games prototyping
+- Network Administration
+- Computer Hardware maintenance
+- Game prototyping in Unity3D
+
+`Role History`
+I was originally hired as a PHP developer working on REST API's for flash/mobile games backends.
+Since then I have worked on a variety of projects including:
+- Building Custom CRM software (Lead developer on a team of 4)
+- Designing and implementing the network for multiple call centre's
+- Building and maintaining Crypto Currency mining rigs
+- building the backend server for a variety of Turn based and real time mobile games
+- Building Data analysis tools
+- Mobile device automation
 
 ## Education
 
@@ -103,14 +119,12 @@ Bradford College Rising Stars Award
 
 
 ## Other Interests
-
 - Video Games
 - Rock Climbing
 - Cars
 - Mechanical Keyboards
 
 
-
-`Last updated: Jan 2023`
+`Last updated: Nov 2023`
 
 
