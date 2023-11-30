@@ -69,6 +69,8 @@ applications.
 - **GStreamer** - video transmission over a network
 - **ROS 2** - Comunicating with a range of hardware sensors and triggering remote tasks
 - **Qt** - Developing desktop and mobile GUI applications
+- **Composer** - PHP package management
+- **PHPUnit** - Unit testing framework for PHP
 
 
 ## Employment History
