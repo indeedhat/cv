@@ -50,6 +50,7 @@ __Charles Clinkard__
  - CLI tools
  - System automation
  - Web scraping solutions
+
  8+ Years hobby experience building a wide range of projects including web apps, orchestration tools, a gameboy emulator and much more.
 
 ### PHP
