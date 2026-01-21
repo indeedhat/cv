@@ -12,20 +12,31 @@ Full Stack Developer
     | <a href="https://github.com/indeedhat" target="_blank">My GitHub Account</a>
 </div>
 
-Full stack developer with 10+ years experience in a broad variety of skills.
+## Profile
 
+Experienced full stack developer with over 10 years of professional experience delivering scalable,
+production-ready systems across web, backend, infrastructure, and embedded-adjacent domains. Strong
+background in Linux-based environments, API design, distributed systems, and data-driven
+applications. Comfortable working across the full lifecycle—from architecture and infrastructure to
+implementation, optimisation, and long-term maintenance.
 
-## Currently
-Working as a developer for [Heliguy.com](https://heliguy.com)
+## Current Role
 
-### Responsibilities
-- Evaluate open source technologies for use within our echosystem
-- Customize open source technologies towards our specific use cases
-- Implement wifi based communications for drones
-- Create and improve management GUI's for drone flight
-- integrate a range of handware sensors into our existing platform
-- Optimizing video transmission pipelines
+__Charles Clinkard__
+*Developer*
+`Jan 2024 – Present`
 
+### Key Responsibilities
+
+- Design, build, and maintain services within a multi-service architecture
+- Orchestrate and maintain Kubernetes clusters
+- Integrate internal systems with third-party tools and external APIs
+- Design and implement scalable infrastructure on AWS
+- Maintain and integrate with legacy systems
+- Collaborate with external vendors to deliver custom third-party integrations
+- Migrate data from multiple legacy systems into modern platforms
+- Contribute fixes and improvements to open source projects used in production
+- Develop modern front-end interfaces using Vue.js
 
 ## Key Skills
 
@@ -33,50 +44,73 @@ Working as a developer for [Heliguy.com](https://heliguy.com)
 6+ Months working with Qt based applications, ROS2 nodes and gstreamer pipelines
 
 ### Go
-4+ Yeas professional experience using go for building REST API's, Real-Time game servers, 
-Cli Development tools, System automation, Web scraping
+- 4+ years of professional experience building:
+  - REST APIs
+  - Real-time game servers
+  - CLI tools
+  - System automation
+  - Web scraping solutions
 
 ### PHP
 10+ Years professional experience using PHP for API development.
 
 ### Linux
-8+ Years of professional experience administering Linux servers,  
-5+ Years of daily driving as my personal/development platform
+- 10+ Years of professional experience administering Linux servers
+- 7+ Years of daily driving as my personal/development platform
 
 ### MySQL
 10+ Years of database administration and development. Including query optimisation for high throughput 
 applications.
 
+### Postgres
+2+ Years of database administration and development. Including query optimisation for high throughput 
+applications.
+
 ### Python
-7+ Years professional experience using python for task automation, system administration and web scraping
+9+ Years professional experience using python for task automation, data analytics, system administration and web scraping
 
 ### Git
 10+ Years of professional experience using git as my sole SCM and providing support to other developers at AceViral
 
 ## Other Skills
-- **CI/CD** - GitHub Actions, TeamCity, Jenkins
-- **Javascript/Typescript** - reactive web frontends
-- **Julia** - data analytics
-- **Lua** - Cli development tools, vim plugins
-- **C#** - Unity Game Development
-- **MongoDB** - Data collection
-- **BigQuery** - big data analytics
-- **Docker** - service deployment
-- **Kubernetes** - service deployment
-- **Apache** - web service hosting
-- **Nginx** - reverse proxy
-- **Vim** - enthusiast
-- **GStreamer** - video transmission over a network
-- **ROS 2** - Comunicating with a range of hardware sensors and triggering remote tasks
-- **Qt** - Developing desktop and mobile GUI applications
-- **Composer** - PHP package management
-- **PHPUnit** - Unit testing framework for PHP
+- **CI/CD:** GitHub Actions, TeamCity, Jenkins
+- **JavaScript / TypeScript:** Reactive web front-end development
+- **Frameworks:** React, Vue.js, Svelte
+- **Julia:** Data analytics
+- **Lua:** CLI tools and Vim plugins
+- **C#:** Unity game development
+- **MongoDB:** Data collection systems
+- **BigQuery:** Large-scale data analytics
+- **Docker:** Service packaging and deployment
+- **Kubernetes:** Service orchestration and deployment
+- **Istio / OPA:** Cluster authentication and authorisation
+- **Apache:** Web service hosting
+- **Nginx:** Reverse proxy configuration
+- **Vim:** Enthusiast
+- **GStreamer:** Network-based video transmission
+- **ROS 2:** Hardware sensor communication and remote task execution
+- **Qt:** Desktop and mobile GUI development
+- **Composer:** PHP dependency management
+- **PHPUnit:** Unit testing for PHP applications
+- **RabbitMQ:** Event-driven messaging systems
+- **Terraform:** AWS infrastructure management
 
 
 ## Employment History
 
-`Apr 2023 - Present`
+`Jan 2024 - Present`
+__Charles Clinkard__
+
+`Apr 2023 - Dec 2023`
 __Heliguy Ltd__
+
+### Responsibilities
+- Evaluate open source technologies for use within the wider ecosystem
+- Customise open source tools to meet specific business requirements
+- Implement Wi-Fi–based communication systems for drones
+- Design and improve management GUIs for drone flight operations
+- Integrate a wide range of hardware sensors into existing platforms
+- Optimise video transmission pipelines for reliability and performance
 
 `Sep 2012 - Apr 2023`
 __AceViral Ltd__
@@ -127,6 +161,6 @@ Bradford College Rising Stars Award
 - Mechanical Keyboards
 
 
-`Last updated: Nov 2023`
+`Last updated: Jan 2026`
 
 
