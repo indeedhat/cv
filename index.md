@@ -44,19 +44,19 @@ __Charles Clinkard__
 6+ Months working with Qt based applications, ROS2 nodes and gstreamer pipelines
 
 ### Go
-- 4+ years of professional experience building:
-  - REST APIs
-  - Real-time game servers
-  - CLI tools
-  - System automation
-  - Web scraping solutions
+4+ years of professional experience building:
+ - REST APIs
+ - Real-time game servers
+ - CLI tools
+ - System automation
+ - Web scraping solutions
 
 ### PHP
 10+ Years professional experience using PHP for API development.
 
 ### Linux
-- 10+ Years of professional experience administering Linux servers
-- 7+ Years of daily driving as my personal/development platform
+10+ Years of professional experience administering Linux servers,  
+7+ Years of daily driving as my personal/development platform
 
 ### MySQL
 10+ Years of database administration and development. Including query optimisation for high throughput 
