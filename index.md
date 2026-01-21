@@ -9,7 +9,7 @@ Full Stack Developer
 
 <div id="webaddress">
     <a href="mailto:iam4423@gmail.com">iam4423@gmail.com</a>
-    | <a href="https://github.com/indeedhat" target="_blank">My GitHub Account</a>
+    | <a href="https://github.com/indeedhat" target="_blank">https://github.com/indeedhat</a>
 </div>
 
 ## Profile
