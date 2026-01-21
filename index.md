@@ -45,11 +45,11 @@ __Charles Clinkard__
 
 ### Go
 4+ years of professional experience building:
-     - REST APIs
-     - Real-time game servers
-     - CLI tools
-     - System automation
-     - Web scraping solutions
+ - REST APIs
+ - Real-time game servers
+ - CLI tools
+ - System automation
+ - Web scraping solutions
 
 ### PHP
 10+ Years professional experience using PHP for API development.
