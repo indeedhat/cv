@@ -44,7 +44,7 @@ __Charles Clinkard__
 6+ Months working with Qt based applications, ROS2 nodes and gstreamer pipelines
 
 ### Go
-4+ Years of professional experience building:
+5+ Years of professional experience building:
  - REST APIs
  - Real-time game servers
  - CLI tools
