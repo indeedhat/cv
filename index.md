@@ -40,11 +40,8 @@ __Charles Clinkard__
 
 ## Key Skills
 
-### C/C++
-6+ Months working with Qt based applications, ROS2 nodes and gstreamer pipelines
-
 ### Go
-5+ Years of professional experience building:
+5+ Years of professional experience designing and building:
  - REST APIs
  - Real-time game servers
  - CLI tools
@@ -54,7 +51,7 @@ __Charles Clinkard__
  8+ Years hobby experience building a wide range of projects including web apps, orchestration tools, a gameboy emulator and much more.
 
 ### PHP
-10+ Years professional experience using PHP for API development.
+10+ Years professional experience designing and building API's and Web Apps
 
 ### Linux
 10+ Years of professional experience administering Linux servers,  
@@ -70,6 +67,9 @@ applications.
 
 ### Python
 9+ Years professional experience using python for task automation, data analytics, system administration and web scraping
+
+### C/C++
+8+ Months working with Qt based applications, ROS2 nodes and gstreamer pipelines
 
 ### Git
 10+ Years of professional experience using git as my sole SCM and providing support to other developers at AceViral
@@ -163,6 +163,6 @@ Bradford College Rising Stars Award
 - Mechanical Keyboards
 
 
-`Last updated: Jan 2026`
+`Last updated: Feb 2026`
 
 
