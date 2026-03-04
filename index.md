@@ -47,8 +47,9 @@ __Charles Clinkard__
  - CLI tools
  - System automation
  - Web scraping solutions
+ - mobile test automation
 
- 8+ Years hobby experience building a wide range of projects including web apps, orchestration tools, a gameboy emulator and much more.
+ 8+ Years hobby experience building a wide range of projects including web apps, orchestration tools, an embedded database, a gameboy emulator and much more.
 
 ### PHP
 10+ Years professional experience designing and building API's and Web Apps
@@ -161,6 +162,7 @@ Bradford College Rising Stars Award
 - Rock Climbing
 - Cars
 - Mechanical Keyboards
+- 3D Printing
 
 
 `Last updated: Feb 2026`
