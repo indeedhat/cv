@@ -49,7 +49,12 @@ __Charles Clinkard__
  - Web scraping solutions
  - mobile test automation
 
- 8+ Years hobby experience building a wide range of projects including web apps, orchestration tools, an embedded database, a gameboy emulator and much more.
+8+ Years hobby experience building a wide range of projects including:
+- web apps
+- orchestration tools
+- developer tools
+- an embedded database
+- a gameboy emulator
 
 ### PHP
 10+ Years professional experience designing and building API's and Web Apps
